@@ -17,13 +17,11 @@ Think of this as Konsol's automation toolbox – every script here exists becaus
 # 📂 What You'll Find Here
 This repository is organized by automation type or department. Each automation includes:
 
-1.Clear documentation on what it does and why it exists
+1.Code files 
 
 2.Setup instructions to get you running quickly
 
-3.Usage examples so you know exactly how to use it
-
-4.Dependencies and requirements listed upfront
+3.Dependencies and requirements listed upfront
 
 # 🛠️ Getting Started
 1.Browse the automations in the folders above
