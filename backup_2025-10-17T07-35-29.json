@@ -1,0 +1,962 @@
+[
+  {
+    "company": "BORG.AI",
+    "revenue": "10 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Portal Telemedicina",
+    "revenue": "6.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "Reachx.co",
+    "revenue": "1.7 million",
+    "status": "Found"
+  },
+  {
+    "company": "RAFA Racing",
+    "revenue": "240.7 million",
+    "status": "Found"
+  },
+  {
+    "company": "Nolocode",
+    "revenue": "22.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "staaake",
+    "revenue": "145 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Pendo",
+    "revenue": "200 million",
+    "status": "Found"
+  },
+  {
+    "company": "DigitalTwin Technology GmbH",
+    "revenue": "24.97 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Superhuman",
+    "revenue": "825 million",
+    "status": "Found"
+  },
+  {
+    "company": "HV Capital",
+    "revenue": "250 million",
+    "status": "Found"
+  },
+  {
+    "company": "Go Genie",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Kore.ai",
+    "revenue": "525.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "The News Movement",
+    "revenue": "25 million",
+    "status": "Found"
+  },
+  {
+    "company": "Superblocks",
+    "revenue": "6 million",
+    "status": "Found"
+  },
+  {
+    "company": "AitekLabs",
+    "revenue": "10.7 million",
+    "status": "Found"
+  },
+  {
+    "company": "BAM Corner Point",
+    "revenue": "350 million",
+    "status": "Found"
+  },
+  {
+    "company": "adeer",
+    "revenue": "121.04 million",
+    "status": "Found"
+  },
+  {
+    "company": "Travel Wise",
+    "revenue": "2.33 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Clue",
+    "revenue": "22.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "ITDS PORTUGAL",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Petzai",
+    "revenue": "271.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "Archreall",
+    "revenue": "17.44 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Robin Hood",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "KeyBeyond",
+    "revenue": "10.397 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Workerbee",
+    "revenue": "21.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "NTT",
+    "revenue": "30.616 billion",
+    "status": "Found"
+  },
+  {
+    "company": "START Campus",
+    "revenue": "947 million",
+    "status": "Found"
+  },
+  {
+    "company": "MSquared",
+    "revenue": "3 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Animoca Brands",
+    "revenue": "314 million",
+    "status": "Found"
+  },
+  {
+    "company": "Boston Dynamics",
+    "revenue": "27.6 million",
+    "status": "Found"
+  },
+  {
+    "company": "Digital Samba",
+    "revenue": "21 million",
+    "status": "Found"
+  },
+  {
+    "company": "VeriCasa",
+    "revenue": "275.63 million",
+    "status": "Found"
+  },
+  {
+    "company": "270 Degrees",
+    "revenue": "1 million",
+    "status": "Found"
+  },
+  {
+    "company": "EARTH AI",
+    "revenue": "8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Bluesky",
+    "revenue": "700 million",
+    "status": "Found"
+  },
+  {
+    "company": "InChorus Group",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Redis",
+    "revenue": "84.0 million",
+    "status": "Found"
+  },
+  {
+    "company": "Djassi Africa",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Alea Capital Partners",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "adidas",
+    "revenue": "23.68 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Webandman OÜ",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Cocentrix",
+    "revenue": "28.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "Do Your Order",
+    "revenue": "680.985 billion",
+    "status": "Found"
+  },
+  {
+    "company": "CEE Attorneys",
+    "revenue": "24.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Divergent",
+    "revenue": "2.3 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Wolff Olins",
+    "revenue": "66.3 million",
+    "status": "Found"
+  },
+  {
+    "company": "Internet Society",
+    "revenue": "220.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "Nordic Angels",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Acumino",
+    "revenue": "8.3 million",
+    "status": "Found"
+  },
+  {
+    "company": "Octodet",
+    "revenue": "1.14 million",
+    "status": "Found"
+  },
+  {
+    "company": "Fay",
+    "revenue": "8.5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Lattice",
+    "revenue": "0.509 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Synopsys Inc",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Metafuels",
+    "revenue": "2.61 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Lighthouse",
+    "revenue": "1.46 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Absci",
+    "revenue": "3.48 million",
+    "status": "Found"
+  },
+  {
+    "company": "Catena Labs & Circle",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Lufthansa Group Digital Hangar",
+    "revenue": "33.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "GetVocal AI",
+    "revenue": "2.82 million",
+    "status": "Found"
+  },
+  {
+    "company": "OpStudio",
+    "revenue": "10 million",
+    "status": "Found"
+  },
+  {
+    "company": "Nveil",
+    "revenue": "25.87 million",
+    "status": "Found"
+  },
+  {
+    "company": "My Startup Studio",
+    "revenue": "109.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "Amogy",
+    "revenue": "310 million",
+    "status": "Found"
+  },
+  {
+    "company": "PT Ventures",
+    "revenue": "3.1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "SkysMyth",
+    "revenue": "1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "SecretHero",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Terra Security",
+    "revenue": "38 million",
+    "status": "Found"
+  },
+  {
+    "company": "Ultraviolet",
+    "revenue": "8.41 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Jylo",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Orchestro.ai",
+    "revenue": "19.5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Expedia Group",
+    "revenue": "13.7 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Grammarly",
+    "revenue": "13 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Invest Rio",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Synthgen",
+    "revenue": "3.94 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Enviromates.earth",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Funky Chunky Cookies",
+    "revenue": "50 million",
+    "status": "Found"
+  },
+  {
+    "company": "Brandtellers Studio",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Fit-Tails",
+    "revenue": "183.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "Streetlife Ventures",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Principal Venture Partners",
+    "revenue": "100 million",
+    "status": "Found"
+  },
+  {
+    "company": "Octanova",
+    "revenue": "656.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "Serapy",
+    "revenue": "74.1 million",
+    "status": "Found"
+  },
+  {
+    "company": "Lokalise",
+    "revenue": "300 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Eigen Labs",
+    "revenue": "220 million",
+    "status": "Found"
+  },
+  {
+    "company": "Valletta Software Development Ltd",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Cradle",
+    "revenue": "103 million",
+    "status": "Found"
+  },
+  {
+    "company": "Roland Berger",
+    "revenue": "1.6 billion",
+    "status": "Found"
+  },
+  {
+    "company": "GfZ",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Podeo",
+    "revenue": "5.43 million",
+    "status": "Found"
+  },
+  {
+    "company": "Trialogar",
+    "revenue": "6.00 million",
+    "status": "Found"
+  },
+  {
+    "company": "Indico Capital Partners",
+    "revenue": "12 million",
+    "status": "Found"
+  },
+  {
+    "company": "Maskots",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Ookla",
+    "revenue": "29.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Flowlio",
+    "revenue": "20 million",
+    "status": "Found"
+  },
+  {
+    "company": "The Drum",
+    "revenue": "9.1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Dreamplan.io",
+    "revenue": "4.24 million",
+    "status": "Found"
+  },
+  {
+    "company": "Heatherwick Studio",
+    "revenue": "143.3 million",
+    "status": "Found"
+  },
+  {
+    "company": "Mozilla",
+    "revenue": "450.86 million",
+    "status": "Found"
+  },
+  {
+    "company": "ShotServe",
+    "revenue": "100 million",
+    "status": "Found"
+  },
+  {
+    "company": "Workspace Global",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "JCDecaux",
+    "revenue": "4,250 million",
+    "status": "Found"
+  },
+  {
+    "company": "Digital Wallet",
+    "revenue": "121.3 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Cariqa",
+    "revenue": "4.34 million",
+    "status": "Found"
+  },
+  {
+    "company": "Sunbit",
+    "revenue": "1.12 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Imaguru Ventures",
+    "revenue": "2.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "Manus AI",
+    "revenue": "500 million",
+    "status": "Found"
+  },
+  {
+    "company": "Cybernetica",
+    "revenue": "9.1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Toptal",
+    "revenue": "25.0 million",
+    "status": "Found"
+  },
+  {
+    "company": "Wayfound",
+    "revenue": "3 million",
+    "status": "Found"
+  },
+  {
+    "company": "Quissly",
+    "revenue": "607.6 million",
+    "status": "Found"
+  },
+  {
+    "company": "Fizz",
+    "revenue": "1.2 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Alice & Bob",
+    "revenue": "400 million",
+    "status": "Found"
+  },
+  {
+    "company": "Liquid AI",
+    "revenue": "23.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "EXPOPOLIS",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Turenne Invest",
+    "revenue": "7.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Prime Ventures",
+    "revenue": "3.5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Kohort",
+    "revenue": "5.03 million",
+    "status": "Found"
+  },
+  {
+    "company": "GitHub",
+    "revenue": "245 billion",
+    "status": "Found"
+  },
+  {
+    "company": "ElleQuant",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "SASHA",
+    "revenue": "58 million",
+    "status": "Found"
+  },
+  {
+    "company": "FREENOW",
+    "revenue": "1.6 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Scarlet AI",
+    "revenue": "26 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Flourish Ventures",
+    "revenue": "500 million",
+    "status": "Found"
+  },
+  {
+    "company": "Innovation Visual",
+    "revenue": "10 million",
+    "status": "Found"
+  },
+  {
+    "company": "Hallwyl Holding",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Ventuseo GmbH",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "aiTTee.com",
+    "revenue": "4.6 billion",
+    "status": "Found"
+  },
+  {
+    "company": "CARMA",
+    "revenue": "137.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Jasper",
+    "revenue": "1.5 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Comudel",
+    "revenue": "36.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "The AI Journal / Silicon Valleys Journal",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Oura",
+    "revenue": "11 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Open Ocean Capital",
+    "revenue": "1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Talentpilot",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "GIGLIKE",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "UHP",
+    "revenue": "7266 million",
+    "status": "Found"
+  },
+  {
+    "company": "Company.info",
+    "revenue": "13.1 million",
+    "status": "Found"
+  },
+  {
+    "company": "Mooyi",
+    "revenue": "7.30 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Edumentors",
+    "revenue": "185.36 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Mercedes-AMG Petronas F1 Team",
+    "revenue": "800 million",
+    "status": "Found"
+  },
+  {
+    "company": "Transpose Platform",
+    "revenue": "1.8 million",
+    "status": "Found"
+  },
+  {
+    "company": "Headline",
+    "revenue": "77 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Linear",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Amazon Robotics",
+    "revenue": "2.4 billion",
+    "status": "Found"
+  },
+  {
+    "company": "payabl.",
+    "revenue": "62.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "RobotDreams GmbH",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "Firstech Ventures",
+    "revenue": "18.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "Nerdio",
+    "revenue": "1.2 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Blaize",
+    "revenue": "1.982 million",
+    "status": "Found"
+  },
+  {
+    "company": "Zipline AI",
+    "revenue": "73 million",
+    "status": "Found"
+  },
+  {
+    "company": "FirstWork",
+    "revenue": "5.5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Clay",
+    "revenue": "175.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "7270.VC",
+    "revenue": "31.40 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Unbabel",
+    "revenue": "50 million",
+    "status": "Found"
+  },
+  {
+    "company": "ChatPlace",
+    "revenue": "187.59 million",
+    "status": "Found"
+  },
+  {
+    "company": "GLOBEZERO.AI",
+    "revenue": "13 billion",
+    "status": "Found"
+  },
+  {
+    "company": "INWEB MEDIA GROUP",
+    "revenue": "6.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "ScorePlay",
+    "revenue": "5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Omniscope",
+    "revenue": "6.2 million",
+    "status": "Found"
+  },
+  {
+    "company": "PartnerMe AI",
+    "revenue": "13 billion",
+    "status": "Found"
+  },
+  {
+    "company": "CircularPlace",
+    "revenue": "1.64 million",
+    "status": "Found"
+  },
+  {
+    "company": "Thinkative",
+    "revenue": "1.02 million",
+    "status": "Found"
+  },
+  {
+    "company": "Qualcomm Technologies, Inc.",
+    "revenue": "38.96 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Fedex",
+    "revenue": "87.926 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Ego",
+    "revenue": "1.323 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Enveda Biosciences",
+    "revenue": "70.1 million",
+    "status": "Found"
+  },
+  {
+    "company": "Webflow",
+    "revenue": "212.5 million",
+    "status": "Found"
+  },
+  {
+    "company": "Contesaur",
+    "revenue": "Not Found",
+    "status": "Failed"
+  },
+  {
+    "company": "BankStore",
+    "revenue": "59.8 billion",
+    "status": "Found"
+  },
+  {
+    "company": "DataHive AI",
+    "revenue": "13 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Skyrora",
+    "revenue": "15 million",
+    "status": "Found"
+  },
+  {
+    "company": "Fractile",
+    "revenue": "23.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "NexPCB",
+    "revenue": "16.6 million",
+    "status": "Found"
+  },
+  {
+    "company": "Rivian",
+    "revenue": "4.97 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Sama",
+    "revenue": "2.2 billion",
+    "status": "Found"
+  },
+  {
+    "company": "FPV Ventures",
+    "revenue": "1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Federated Directory",
+    "revenue": "1.6 billion",
+    "status": "Found"
+  },
+  {
+    "company": "Damus",
+    "revenue": "4 million",
+    "status": "Found"
+  },
+  {
+    "company": "OpStudio",
+    "revenue": "100 million",
+    "status": "Found"
+  },
+  {
+    "company": "Studio Dumbar/DEPT",
+    "revenue": "5.9 million",
+    "status": "Found"
+  },
+  {
+    "company": "TestGorilla",
+    "revenue": "1.59 million",
+    "status": "Found"
+  },
+  {
+    "company": "Writers` Bloc",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Seventh Element",
+    "revenue": "1.1 billion",
+    "status": "Found"
+  },
+  {
+    "company": "DOMiNO Ventures",
+    "revenue": "15 million",
+    "status": "Found"
+  },
+  {
+    "company": "Fonzi",
+    "revenue": "10 billion",
+    "status": "Found"
+  },
+  {
+    "company": "M.AI Unbound, Inc",
+    "revenue": "Error",
+    "status": "Failed"
+  },
+  {
+    "company": "Tracks",
+    "revenue": "36.89 million",
+    "status": "Found"
+  },
+  {
+    "company": "Pin Solutions",
+    "revenue": "1.2 billion",
+    "status": "Found"
+  },
+  {
+    "company": "QED Investors",
+    "revenue": "35 million",
+    "status": "Found"
+  },
+  {
+    "company": "Fuse Project",
+    "revenue": "31.4 million",
+    "status": "Found"
+  },
+  {
+    "company": "Coelius Capital",
+    "revenue": "1 million",
+    "status": "Found"
+  },
+  {
+    "company": "Axilog",
+    "revenue": "Not Found",
+    "status": "Failed"
+  }
+]
